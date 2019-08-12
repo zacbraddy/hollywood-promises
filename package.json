@@ -1,0 +1,19 @@
+{
+  "name": "hollywood-promises",
+  "version": "0.0.1",
+  "description": "Don't wait for promises to return control to you. Promises that don't call you; you call then",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Promise",
+    "Promises",
+    "control",
+    "structure",
+    "promise",
+    "promises"
+  ],
+  "author": "Zac Braddy",
+  "license": "MIT"
+}
